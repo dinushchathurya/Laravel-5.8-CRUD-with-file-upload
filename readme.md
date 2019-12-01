@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Clone Repository to your local machine
+
 =======
 ## 1.Clone this repository to your local machine.
 
