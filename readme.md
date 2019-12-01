@@ -1,5 +1,3 @@
-
-=======
 ## 1.Clone this repository to your local machine.
 
 ## 2.Then goto your project directory & then run "composer install".
