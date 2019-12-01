@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Laravel 5.8  CRUD operation with File Upload</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -81,17 +81,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                   <h6>Laravel 5.8 CRUD operation with File Upload</h6>
                 </div>
-
+            <div><strong>run the application goto https:localhost:8000/crud</strong> </div>
+            <br>
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/dinushchathurya"><strong>GitHub</strong></a>
                 </div>
             </div>
         </div>

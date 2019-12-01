@@ -10,7 +10,7 @@
 	<body>
 		<div class="container">    
   			<br />
-  			<h3 align="center">Laravel 5.8 Crud Tutorial</h3>
+  			<h3 align="center">Laravel 5.8 CRUD with File Upload.</h3>
   			<br />
   			<?php echo $__env->yieldContent('main'); ?>
   		</div>
