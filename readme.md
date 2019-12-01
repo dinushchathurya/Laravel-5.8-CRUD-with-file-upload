@@ -10,4 +10,3 @@
 
 ## 6.Then go to directory https:localhost:8000/crud
 
->>>>>>> a8a377db44243ccdce1e1b7daf5ba3494c4033f5
